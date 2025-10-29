@@ -6,7 +6,6 @@ import {
   FaMapMarkerAlt,
   FaCameraRetro,
   FaSnowflake,
-  FaUsers,
 } from "react-icons/fa";
 import { GiDiamondRing } from "react-icons/gi";
 
