@@ -5,7 +5,6 @@ import {
   FaGlassCheers,
   FaMapMarkerAlt,
   FaCameraRetro,
-  FaSnowflake,
 } from "react-icons/fa";
 import { GiDiamondRing } from "react-icons/gi";
 
@@ -73,11 +72,12 @@ function App() {
 
   const gallery = [
     "/images/couple-3.jpg",
-    "/images/couple-3.jpg",
-    "/images/couple-3.jpg",
-    "/images/couple-3.jpg",
-    "/images/couple-3.jpg",
-    "/images/couple-3.jpg",
+    "/images/couple-4.jpg",
+    "/images/couple-5.jpg",
+    "/images/couple-6.jpg",
+    "/images/couple-10.jpg",
+    "/images/couple-11.jpg",
+    "/images/couple-9.jpg",
   ];
 
   // Snowflakes Effect
@@ -143,7 +143,7 @@ function App() {
               fontSize: `${h.size}px`,
             }}
           >
-            <FaSnowflake />
+            ❤️
           </span>
         ))}
       </div>
@@ -167,7 +167,7 @@ function App() {
           <strong>1st December 2025 • 6:30 PM – 9:30 PM</strong>
         </p>
         <p className="tagline slide-in-left delay-4">
-          ❄️ Make the moment special with us ❄️
+          ❤️ Make the moment special with us ❤️
         </p>
       </section>
 
@@ -198,11 +198,11 @@ function App() {
       {/* Couple Section */}
       <section className="couple reveal">
         <div className="left">
-          <img src="/images/couple-1.jpg" alt="Dhivagar & Suriyabharathi" className="couple-img" />
+          <img src="/images/couple-7.jpg" alt="Dhivagar & Suriyabharathi" className="couple-img" />
         </div>
         <div className="right">
           <h4>
-            Dhivagar <FaHeart /> Suriyabharathi
+            Dhivagar❤️Suriyabharathi
           </h4>
           <p>
             Two souls, one heart. Join us as we begin this beautiful journey
@@ -262,8 +262,8 @@ function App() {
       </section>
       <section className="thank-you-section reveal">
         <div className="thank-you-snowflakes">
-          <span className="thank-you-snowflake">❄️</span>
-          <span className="thank-you-snowflake">❄️</span>
+          <span className="thank-you-snowflake">❤️</span>
+          <span className="thank-you-snowflake">❤️</span>
         </div>
         <div className="thank-you-content">
           <h3>Thank You for Being Part of Our Special Day</h3>
@@ -285,7 +285,7 @@ function App() {
               For inquiries or to create a website like this, contact:
             </p>
             <p className="footer-contact">
-              📞 <a href="tel:+917010145439">WhatsApp: +91 7010145439</a>
+              <a href="tel:+917010145439">WhatsApp: +91 7010145439</a>
             </p>
           </div>
         </div>
