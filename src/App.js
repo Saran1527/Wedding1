@@ -71,13 +71,15 @@ function App() {
   );
 
   const gallery = [
-    "/images/couple-3.jpg",
-    "/images/couple-4.jpg",
+   
+    "/images/couple-11.jpg",
     "/images/couple-5.jpg",
     "/images/couple-6.jpg",
     "/images/couple-10.jpg",
-    "/images/couple-11.jpg",
+    "/images/couple-8.jpg",
+    "/images/couple-7.jpg",
     "/images/couple-9.jpg",
+     "/images/couple-4.jpg",
   ];
 
   // Snowflakes Effect
@@ -198,7 +200,7 @@ function App() {
       {/* Couple Section */}
       <section className="couple reveal">
         <div className="left">
-          <img src="/images/couple-7.jpg" alt="Dhivagar & Suriyabharathi" className="couple-img" />
+          <img src="/images/couple-1.jpg" alt="Dhivagar & Suriyabharathi" className="couple-img" />
         </div>
         <div className="right">
           <h4>
