@@ -72,7 +72,7 @@ function App() {
 
   const gallery = [
    
-    "/images/couple-11.jpg",
+    "/images/couple-2.jpg",
     "/images/couple-5.jpg",
     "/images/couple-6.jpg",
     "/images/couple-10.jpg",
